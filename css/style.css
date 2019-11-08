@@ -1,0 +1,152 @@
+/* font-family: 'PT Sans', sans-serif; */
+
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #010101;
+}
+
+/* header start */
+header{
+	padding: 15px 0;
+	background-color: #fcdb00;
+}
+.menu ul li a{
+	font-size: 22px;
+	color: #010101 !important;
+	font-weight: 700;
+	padding: 0px 35px !important;
+	transition: .5s;
+}
+.menu ul li:last-child a{
+	padding-right: 0px !important;
+}
+.menu ul li a:hover{
+	color: #fff !important;
+}
+/* header end */
+/* slider start */
+.slider{
+	background-color: #fcdb00;
+	padding-bottom: 100px;
+}
+.s_content{
+	margin-top: 60px;
+}
+.s_content h1{
+	font-size: 32px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+.s_content h2{
+	font-weight: 400;
+	font-size: 20px;
+	color: #313841;
+	letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-bottom: 17px;
+}
+.s_content p{
+	color: #555555;
+	font-size: 16px;
+	word-spacing: 1px;
+	margin-bottom: 30px;
+}
+.f_icon li{
+	font-size: 42px;
+	margin-right: 35px !important;
+}
+.s_img img{
+	margin-left: 0px;
+}
+.ci{
+	bottom: -75px;
+}
+.ci li{
+	width: 13px;
+    height: 13px;
+    border-radius: 50%;
+}
+/* feature start */
+.feature{
+	margin-bottom: 50px;
+}
+.c_title{
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+.c_title h1{
+	font-size: 32px;
+	font-weight: 700;
+}
+.c_title h2{
+	color: #313841;
+	font-weight: 400;
+	font-size: 20px;
+	word-spacing: 1px;
+    letter-spacing: 1px;
+}
+.single{
+	margin-bottom: 50px;
+}
+.s_icon i{
+	font-size: 50px;
+}
+.s_txt h3{
+	font-size: 22px;
+	font-weight: 400;
+}
+.s_txt p{
+	color: #898989;
+	word-spacing: 1px;
+    letter-spacing: 1px;
+}
+/* newsletter start */
+.newsletter{
+	background-color: #010101;
+	padding-bottom: 100px;
+}
+.yellow{
+	color: #fcdb00;
+}
+.gray{
+	color: #898989;
+}
+.form input{
+	height: 50px;
+}
+.form button{
+	height: 50px;
+    background-color: #fcdb00;
+    width: 150px;
+    text-transform: uppercase;
+    color: #010101;
+    font-weight: 700;
+    border: none;
+}
+.form button:hover{
+	background-color: white;
+	color: #010101;
+	transition: .5s;
+}
+.social_icon{
+	margin-top: 70px;
+}
+.social_icon ul li i{
+	color: #fcdb00;
+	font-size: 42px;
+	margin-right: 20px;
+}
+/* footer start */
+footer{
+	background-color: #010101;
+	padding-bottom: 100px;
+}
+address{
+	color: white;
+	font-size: 18px;
+}
+.li{
+	padding: 0 0px;
+    font-size: 18px;
+    color: white;
+}
